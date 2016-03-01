@@ -23,6 +23,8 @@
 //*****************************************************************************
 /*
  *   Ray Wert added a comment here to demonstrate GIT Repository use.
+ *
+ *   Change to be able to compare with the repository.
  */
 #include <stdint.h>
 #include <stdbool.h>
