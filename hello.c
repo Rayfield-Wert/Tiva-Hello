@@ -21,7 +21,9 @@
 // This is part of revision 2.1.0.12573 of the EK-TM4C1294XL Firmware Package.
 //
 //*****************************************************************************
-
+/*
+ *   Ray Wert added a comment here to demonstrate GIT Repository use.
+ */
 #include <stdint.h>
 #include <stdbool.h>
 #include "inc/hw_memmap.h"
